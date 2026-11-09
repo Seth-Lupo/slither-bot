@@ -1,0 +1,4 @@
+__pycache__/
+*.webm
+clips/
+.venv/
